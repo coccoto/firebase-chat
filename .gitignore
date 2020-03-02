@@ -1,0 +1,12 @@
+/node_modules/
+/package-lock.json
+/dist/
+
+*.log
+
+# dotenv
+.env
+
+# Firebase
+/.firebase/
+/.firebaserc
